@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @imalovee
 - 👀 I’m interested in coding and music..
-- 🌱 I’m currently learning frontend web development.
-- 💞️ I’m looking to collaborate on any available frontend projects.
+- 🌱 I’m currently learning Android Application development.
+- 💞️ I’m looking to collaborate on any available kotlin projects.
 - 📫 How to reach me; send a dm
 
 <!---
