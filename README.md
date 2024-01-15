@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @imalovee
 - 👀 I’m interested in coding and music..
-- 🌱 I’m currently learning Android Application development.
+- 🌱 I’m an Android Developer .
 - 💞️ I’m looking to collaborate on any available kotlin projects.
 - 📫 How to reach me; send a dm
 
