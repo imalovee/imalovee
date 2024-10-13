@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @imalovee
 - 👀 I’m interested in coding and cooking..
 - 🌱 I’m a Mobile App Developer .
-- 💞️ I’m looking to collaborate on any available kotlin projects.
+- 💞️ I’m looking to collaborate on any available flutter projects.
 - 📫 How to reach me; send a dm
 
 <!---
